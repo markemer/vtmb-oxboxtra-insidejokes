@@ -12,4 +12,6 @@ _I am not affliated with Outside Xbox or Outside Xtra. I just love their videos.
 
 ## Installing
 
-You'll need VTM: Bloodlines with the latest unofficial patch installed. If you unzip the the file in the directory that contains the `Unofficial_Patch` directory, it should replace Seduction on the Character Sheet with "Sexterity" which is totally a thing. I haven't tried it with all the mods, but any that change `feats.txt` could be impacted. I plan on making this more robust in the future, but this will work now.
+You'll need VTM: Bloodlines with the latest unofficial patch installed. If you replace the the file `Unofficial_Patch/vdata/system/feats.txt` with the one in this package it should replace Seduction on the Character Sheet with "Sexterity" which is _totally a thing_. 
+
+I haven't tried it with all the mods, but any that change `feats.txt` could be impacted. I plan on making this more robust in the future, but this will work now.
