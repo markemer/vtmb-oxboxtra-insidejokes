@@ -8,7 +8,7 @@ A mod with that was inspired by wonderful people at the YouTube channels [Outsid
 * [Vampire the Masquerade Bloodlines 🎃 SEXTERITY CHECK | Hallowstream 2022](https://www.youtube.com/watch?v=Ih1dG4PeSEY)
 
 
-_I am not affliated with Outside Xbox or Outside Xtra. I just love their videos. If you like this mod, go support them._
+_I am not affliated with Outside Xbox or Outside Xtra. I just love their videos. If you like this mod, go support them. Possibly at https://www.patreon.com/oxclub_
 
 ## Installing
 
