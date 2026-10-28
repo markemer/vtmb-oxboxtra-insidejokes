@@ -9,6 +9,7 @@ A mod with that was inspired by wonderful people at the YouTube channels [Outsid
 * [Vampire the Masquerade: Bloodlines 🎃 HALLOWSTREAM TREAT! | Virgin Media Gamepad](https://www.youtube.com/watch?v=d_YK0lC-_g8)
 * [SEXTERITY CHECK | Vampire the Masquerade Bloodlines 🎃 Hallowstream 2024](https://www.youtube.com/watch?v=dLXhNCdetN0)
 * [SEXTERITY CHECK in Vampire The Masquerade Bloodlines 🎃 Hallowstream 2025](https://www.youtube.com/watch?v=_ypWxCFDxuw)
+* [SEXTERITY CHECK in VAMPIRE THE MASQUERADE BLOODLINES | Hallowstream 2026](https://www.youtube.com/watch?v=LJZ4FMgoU6M)
 
 _I am not affliated with Outside Xbox or Outside Xtra. I just love their videos. If you like this mod, go support them. They have a patreon at https://www.patreon.com/oxclub, or you know, just watch all of their videos in order._
 
